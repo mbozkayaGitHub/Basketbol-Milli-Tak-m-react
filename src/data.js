@@ -13,7 +13,7 @@ export default [
       age: 32,
       Team: 'Tofaş',
       image:
-        'https://bys.tbf.org.tr/Yuklemeler/Icerik/modul_kisi/082318c9-f54b-40c1-adce-24255e880cb3_DOUS%20ZDEMROLU.JPG',
+        'https://www.proballers.com/media/cache/torso_player/ul/player/50286-3-62055036085f1.jpg',
     },
     {
       id: 3,
@@ -21,7 +21,7 @@ export default [
       age: 36,
       Team: 'Tofaş',
       image:
-        'https://bys.tbf.org.tr/Yuklemeler/Icerik/modul_kisi/b4463c73-4db9-445f-912b-139a3b8f11cc_ERKAN%20YILMAZ.JPG',
+        'https://pbs.twimg.com/media/DkVgsRsXcAAGCLB.jpg',
     },
     {
       id: 4,
@@ -29,7 +29,7 @@ export default [
       age: 34,
       Team: 'Tofaş',
       image:
-        'https://bys.tbf.org.tr/Yuklemeler/Icerik/modul_kisi/6b0ca15f-f361-413c-8796-85846e3ead69_FURKAN%20HALTALI.JPG',
+        'https://secure.cache.images.core.optasports.com/basketball/players/150x150/uuid_6d9kza7ntrl26v4rcjb2sh756.png?v=1.128.50&gis=mk',
     },
     {
       id: 5,
