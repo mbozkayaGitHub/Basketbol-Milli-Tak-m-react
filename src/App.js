@@ -12,10 +12,10 @@ function App() {
  
       <h3>BASKETBOL MİLLİ TAKIM</h3>
       <List people={people}/>
-      <button onClick={()=> console.log("you clicked me")} >
+      <button onClick={()=> setPeople([])} >
         clear All
       </button>
-      <button onClick={()=> console.log("you clicked me")} >
+      <button onClick={()=> setPeople(data)} >
         see all
       </button>
     </section>
